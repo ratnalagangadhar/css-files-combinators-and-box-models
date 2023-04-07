@@ -1,0 +1,15 @@
++   css selectors and combinators,box models
++      1.space
++      2.>
++      3.+
++      4.~
++
++      selectors
++      1.id,class
++      2.universal selectors
++      3.style part
++      4.attribute selectors
++
++      boxmodels
++      1.padding
++      2.margin
